@@ -247,6 +247,7 @@ Top 4 features = **97.2% of total importance**
 | 📂 GitHub Repository | *This repo* |
 | 📝 Research Paper | [Read on Hashnode →](https://your-hashnode-link-here) |
 | 🚀 Live Dashboard | [Open Streamlit App →](https://uac-forecasting.streamlit.app/) |
+| 📄 Executive Summary | [View on Google Drive →](https://drive.google.com/drive/folders/1di-SvV6YidjTOGIvU8sLPXdahH1qhgIa?usp=sharing) |
 
 ---
 
