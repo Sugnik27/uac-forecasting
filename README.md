@@ -137,7 +137,7 @@ A 6-page interactive dashboard that operationalises both forecasting models.
 The forecast pages require no historical data file. Users enter only 17 numbers they naturally know from their daily operational report (last 14 days of care load + today's 3 pipeline figures). All 30+ model features are computed automatically. Works for any future date, any year.
 
 ### Live App
-🚀 **[View Live Dashboard →](https://your-streamlit-link-here)**
+🚀 **[View Live Dashboard →](https://uac-forecasting.streamlit.app/)**
 
 ---
 
@@ -246,7 +246,7 @@ Top 4 features = **97.2% of total importance**
 |---|---|
 | 📂 GitHub Repository | *This repo* |
 | 📝 Research Paper | [Read on Hashnode →](https://your-hashnode-link-here) |
-| 🚀 Live Dashboard | [Open Streamlit App →](https://your-streamlit-link-here) |
+| 🚀 Live Dashboard | [Open Streamlit App →](https://uac-forecasting.streamlit.app/) |
 
 ---
 
